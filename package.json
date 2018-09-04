@@ -1,0 +1,26 @@
+{
+  "name": "gulp-and-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "pug": "gulp",
+    "sass": "./sass.sh",
+    "server": "live-server public"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/register": "^7.0.0",
+    "babel-core": "^6.26.3",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-pug": "^3.3.0",
+    "live-server": "^1.2.0"
+  },
+  "dependencies": {
+    "@babel/core": "^7.0.0"
+  }
+}
