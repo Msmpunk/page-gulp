@@ -1,3 +1,0 @@
-const hola = ()=>{
-  return 'HOLA'
-}

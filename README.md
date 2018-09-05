@@ -1,16 +1,9 @@
 # pugsass
-Pug and sass compiler
+Pug and sass compiler with gulp
 
-# To start is necesary to have ruby and node installed
 
 # Start
 npm install or yarn install
 
-# start pug
-npm pug or yarn pug
-
-# start pug
-npm sass or yarn sass
-
-# start Live Server
-npm server or yarn server
+# start gulp
+npm start or yarn start

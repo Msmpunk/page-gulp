@@ -1,1 +1,0 @@
-sass --sourcemap=none --watch sass:public/css --style compressed
