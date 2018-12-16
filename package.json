@@ -4,7 +4,7 @@
   "description": "",
   "main": "gulpfile.babel.js",
   "scripts": {
-    "start": "gulp"
+    "start": "gulp dev"
   },
   "author": "",
   "license": "ISC",
@@ -17,7 +17,7 @@
     "babelify": "^8.0.0",
     "browser-sync": "^2.24.7",
     "browserify": "^16.2.2",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "gulp-babel": "^8.0.0",
     "gulp-clean-css": "^3.10.0",
     "gulp-jsmin": "^0.1.5",
